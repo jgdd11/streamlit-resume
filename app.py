@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 st.title("📄 Interactive Resume")
 
-st.header("John Dion")
+st.header("John")
 st.write("Aspiring Data Scientist | Sports Analytics | Machine Learning")
 
 st.write("""
@@ -92,4 +92,4 @@ education = pd.DataFrame({
 
 st.table(education)
 
-st.write("📧 Contact: johnguydion@email.com")
+st.write("📧 Contact: john@email.com")
